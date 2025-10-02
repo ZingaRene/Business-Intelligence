@@ -13,9 +13,9 @@ visualizations such as maps and stacked bar charts.
 3. Explore KPIs and drill down by continent.
 
 ## Files
-- `sales_globais.pbix`: Power BI report.
-- `sales_globais.csv`: Original dataset.
-- `dashboard_screenshot.png`: Dashboard image.
+- `Project1.pbix`: Power BI report.
+- `dataset.csv`: Original dataset.
+- `Global_Sales_analisys.png`: Dashboard image.
 
 ## Lessons Learned
 - Relational modeling is essential for relating tables.
