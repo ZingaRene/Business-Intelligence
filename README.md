@@ -54,11 +54,11 @@ Here is a detailed description of each hands-on project (Labs), organized by cou
 - **Results**: Supply chain dashboard, reducing excess inventory.
 - **Subdirectory**: `/proj5_previsao_demanda/`
 
-## Contribuições e Licença
-Sinta-se à vontade para clonar, fork ou contribuir com melhorias nos dashboards (ex.: novas visualizações). Todos os projetos são open-source sob licença MIT. 
+## License
+Feel free to clone, fork, or contribute improvements to the dashboards (e.g., new visualizations). All projects are open-source under the MIT license.
 
-Para dúvidas, abra uma issue neste repo. Obrigado por visitar! 
+For questions, open an issue in this repo. Thanks for visiting!
 
 ---
 
-*Última atualização: 02 de outubro de 2025*
+*Last updated: October 2, 2025*
