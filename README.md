@@ -24,7 +24,7 @@ Here is a detailed description of each hands-on project (Labs), organized by cou
 - **Data Used**: Global sales set (sales, quantities, revenue by country).
 - **Results**: Dashboard with sales performance KPIs, allowing drill-down by continent.
 - **Subdirectory**: `/proj1_vendas_globais/`
-![Global Sales Analysis](Global_Sales_analisys.png)
+![Global Sales Analysis](lab1_vendas_globais/Global_Sales_analisys.png)
 
 ### Project 2: Sales, Cost, Profit Margin, and KPI Dashboard
 - **Description**: Creation of a report focused on operational finances, calculating profit margins, variable costs, and KPIs such as ROI (Return on Investment) and conversion rate. Includes line charts for monthly trends and cards for key metrics.
