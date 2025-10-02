@@ -24,7 +24,8 @@ Here is a detailed description of each hands-on project (Labs), organized by cou
 - **Data Used**: Global sales set (sales, quantities, revenue by country).
 - **Results**: Dashboard with sales performance KPIs, allowing drill-down by continent.
 - **Subdirectory**: `/proj1_vendas_globais/`
-- <!-- Markdown -->
+- 
+<!-- Markdown -->
 ![Global Sales Analysis](Global_Sales_analisys.png)
 <!-- HTML -->
 <img src="Global_Sales_analisys.png" alt="Global Sales Analysis" width="600"/>
