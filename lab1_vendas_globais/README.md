@@ -3,12 +3,12 @@
 ## Description
 This project develops an interactive dashboard for analyzing international sales,
 
-with filters by region, product, and period. It uses CSV data import,
+with filters by region, product, and period. It uses the file `dataset.csv` data import,
 
 visualizations such as maps and stacked bar charts.
 
 ## How to Execute
-1. Open the `sales_globais.pbix` file in Power BI Desktop.
+1. Open the `Project1.pbix` file in Power BI Desktop.
 2. Update data connections if necessary.
 3. Explore KPIs and drill down by continent.
 
