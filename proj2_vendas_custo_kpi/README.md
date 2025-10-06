@@ -25,4 +25,4 @@ Dashboard image: Margens_de_Lucro_KPI.png:
 Relational modeling is essential for connecting tables.
 Using slicers improves interactivity.
 
-![Dashboard de Vendas_Custos, Margens_de_Lucro e KPI](Vendas_Custos, Margens_de_Lucro_KPI.png)
+![Dashboard de Vendas_Custos, Margens_de_Lucro e KPI](Vendas_Custos_Margens_de_Lucro_KPI.png)
