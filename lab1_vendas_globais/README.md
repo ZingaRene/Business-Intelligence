@@ -21,5 +21,4 @@ visualizations such as maps and stacked bar charts.
 - Relational modeling is essential for relating tables.
 - Using slicers improves interactivity.
 
-
 ![global sales analysis](Global_Sales_analisys.png)
